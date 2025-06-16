@@ -81,7 +81,7 @@ var randomItem = selectRandomItem(items);
 
 > Do not share your session id with your gf .
 
- *Thanks for using your bot name * 
+ *Thanks for using AYTANA-XMD-V1 * 
 
 > Join WhatsApp Channel :- ⤵️
  
