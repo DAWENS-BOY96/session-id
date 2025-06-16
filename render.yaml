@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: aytana-xmd-v1-pair-site
+    env: docker
+    plan: free
+    branch: main
+    repo: https://github.com/DAWENS-BOY96/session-id
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
